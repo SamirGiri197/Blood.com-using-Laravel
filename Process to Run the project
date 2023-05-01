@@ -1,0 +1,8 @@
+Download and Install Composer
+Download and Run Xampp.
+Open Xampp control panel and enable MySQL server
+Open Project with VS Code
+open terminal and run command-->composer update and composer install
+If composer update didn't create .env file, then create ".env" file manually and copy all the contents from ".env.example" file and paste in .env file
+run command--> php artisan migrate ( It creates Database in mySQL)
+run command--> php artisan serve   and follow the IP address
