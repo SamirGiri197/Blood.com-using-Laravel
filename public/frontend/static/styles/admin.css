@@ -1,0 +1,16 @@
+body{
+    background-color: #CFCFCF;
+}
+.main-content{
+    border-top: 2px solid black;
+}
+.info-container{
+    background-color: #CFCFCF;
+    color: black;
+    padding: 10px;
+    width: 130px;
+    border-radius: 10px;
+}
+.user-container{
+    height: 339px;
+}

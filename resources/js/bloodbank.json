@@ -1,0 +1,26 @@
+[
+    {
+        "name" : "Nepal Red cross society",
+        "location" : [
+            {
+                "City" : "Kathmandu-32",
+                "district": "Kathmandu",
+                "province" : "Bagmati"
+            }
+        ],
+        "image" : "assets/images/bloodbank.png",
+        "phone" : "01-1234567"
+    },
+    {
+        "name" : "Nepal Red cross society",
+        "location" : [
+            {
+                "City" : "Biratnagar",
+                "district": "Morang",
+                "province" : "Koshi"
+            }
+        ],
+        "image" : "assets/images/bloodbank.png",
+        "phone" : "021-123456"
+    }
+]

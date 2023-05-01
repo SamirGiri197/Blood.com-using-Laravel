@@ -1,0 +1,49 @@
+[
+    {
+        "bg": "A+",
+        "img":"assets/blood-groups/A+.png",
+        "title":"Blood Group A+",
+        "quantity":"2 pints"
+    },
+    {
+        "bg": "A-",
+        "img":"assets/blood-groups/A-.png",
+        "title":"Blood Group A-",
+        "quantity":"1 pints"
+    },
+    {
+        "bg": "B+",
+        "img":"assets/blood-groups/B+.png",
+        "title":"Blood Group B+",
+        "quantity":"1 pints"
+    },
+    {"bg": "B-",
+        "img":"assets/blood-groups/B-.png",
+        "title":"Blood Group B-",
+        "quantity":"1 pints"
+    },
+    {
+        "bg": "O+",
+        "img":"assets/blood-groups/O+.png",
+        "title":"Blood Group O+",
+        "quantity":"2 pints"
+    },
+    {
+        "bg": "O-",
+        "img":"assets/blood-groups/O-.png",
+        "title":"Blood Group O-",
+        "quantity":"1 pints"
+    },
+    {
+        "bg": "AB+",
+        "img":"assets/blood-groups/AB+.png",
+        "title":"Blood Group AB+",
+        "quantity":"1 pints"
+    },
+    {
+        "bg": "AB-",
+        "img":"assets/blood-groups/AB-.png",
+        "title":"Blood Group AB-",
+        "quantity":"1 pints"
+    }
+]

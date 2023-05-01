@@ -1,0 +1,13 @@
+.form-control{
+    display: block !important;
+    width: 100%;
+    height: calc(1.5em+0.75em+2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.border-container{
+    border: 1px solid;
+    border-radius: 2%;
+  }

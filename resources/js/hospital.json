@@ -1,0 +1,54 @@
+[
+    {
+        "id":"1",
+        "name" : "BP Koirala Institute of health science",
+        "image": "assets/images/hospital.png",
+        "phone" : "025-545555",
+        "location" : [
+            {
+                "City" : "Dharan",
+                "district": "Sunsari",
+                "province" : "Koshi"
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "name" : "Birat Teaching Hospital",
+        "image": "assets/images/hospital.png",
+        "phone" : "021-454334",
+        "location" : [
+            {
+                "City" : "Biratnagar",
+                "district": "Morang",
+                "province" : "Koshi"
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "name" : "Nobel Medical College and  Hospital",
+        "image": "assets/images/hospital.png",
+        "phone" : "01-123456",
+        "location" : [
+            {
+                "City" : "Biratnagar",
+                "district": "Morang",
+                "province" : "Koshi"
+            }
+        ]
+    },
+    {
+        "id":"4",
+        "name" : "Grande Hospital",
+        "image": "assets/images/hospital.png",
+        "phone" : "01-123456",
+        "location" : [
+            {
+                "City" : "Kathmandu",
+                "district": "Kathmandu",
+                "province" : "Bagmati"
+            }
+        ]
+    }
+]

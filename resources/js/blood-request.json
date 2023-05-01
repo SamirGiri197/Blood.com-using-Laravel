@@ -1,0 +1,26 @@
+[
+    {
+        "bg" : "A+",
+        "name" : "Samir Giri",
+        "contact" : "+977 9800966705",
+        "Hospital" : "Nobel Mdeical COllege",
+        "Email" : "samirgiri197@gmail.com",
+        "note" : "We need your help"
+    },
+    {
+        "bg" : "B+",
+        "name" : "Samikshya Giri",
+        "contact" : "+977 9810331077",
+        "Hospital" : "BPKIHS",
+        "Email" : "saraswatigiri197@gmail.com",
+        "note" : "I need emergency blood"
+    },
+    {
+        "bg" : "B+",
+        "name" : "Samikshya Giri",
+        "contact" : "+977 9810331077",
+        "Hospital" : "BPKIHS",
+        "Email" : "saraswatigiri197@gmail.com",
+        "note" : "I need emergency blood"
+    }
+]

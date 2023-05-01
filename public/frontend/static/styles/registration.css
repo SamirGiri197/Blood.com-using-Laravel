@@ -1,0 +1,31 @@
+* {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: white;
+}
+body{
+    background-color: #d49696;
+}
+#top{
+    color: white;
+}
+form{
+    background-color: #ee5f5a;
+    padding: 40px;
+    border-style: solid;
+    border-color: wheat;
+    border-radius: 30px;
+}
+.input-field, #loginbtn{
+    border: none;
+    border-radius: 12px;
+    height: 50px;
+}
+#login{
+ color: greenyellow;
+}
+#bgroup{
+    color: red;
+}
+option{
+    background-color: #ee5f5a;
+}
