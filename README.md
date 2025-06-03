@@ -37,12 +37,12 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-      https://github.com/SamirGiri197/Blood.com-using-Laravel.git 
+   https://github.com/SamirGiri197/Blood.com-using-Laravel.git 
 
   
 2. Install dependencies
     ```bash
-        composer install
+    composer install
 
 3. Copy .env.example to .env and update database credentials:
    ```bash
@@ -50,11 +50,11 @@ To run this project locally:
 
 4. Generate application key:
    ```bash
-       php artisan key:generate
+   php artisan key:generate
 
 5. Run migrations
    ```bash
-    php artisan migrate
+   php artisan migrate
 
 6. Start the local development server:
     ```bash
