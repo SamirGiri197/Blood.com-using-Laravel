@@ -58,4 +58,4 @@ To run this project locally:
 
 6. Start the local development server:
     ```bash
-       php artisan serve
+    php artisan serve
