@@ -41,7 +41,8 @@ To run this project locally:
 
   
 2.Install dependencies
-composer install
+    ```bash
+        composer install
 
 3. Copy .env.example to .env and update database credentials:
    cp .env.example .env
