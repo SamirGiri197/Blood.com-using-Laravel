@@ -37,8 +37,8 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-  https://github.com/SamirGiri197/Blood.com-using-Laravel.git 
-```bash
+      https://github.com/SamirGiri197/Blood.com-using-Laravel.git 
+
   
 2.Install dependencies
 composer install
